@@ -1,2 +1,2 @@
 # AimTrainer
-crappy aim trainer i dont know what i am doing why is java stupid someone please help
+depressing attempt at an aim trainer in minecraft because i dont know how to do anything else
